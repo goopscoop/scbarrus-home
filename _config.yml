@@ -4,8 +4,8 @@
 
 # Site
 title: Away & Away
-subtitle: Home of Author S.C. Barrus
-description: Ruminations on fiction, publishing, art with various ramblings included.
+subtitle: 
+description: 
 author: S.C. Barrus
 language: en
 timezone: America/Los_Angeles
@@ -45,7 +45,12 @@ highlight:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
+  - Music
+  - Books
+  - Movies
+  - Anime
+  - Updates
 tag_map:
 
 # Date / Time format
@@ -63,7 +68,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tranquilpeak
+theme: hueman
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
